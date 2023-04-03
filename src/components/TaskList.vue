@@ -31,7 +31,7 @@ export default {
         return {
             tasks: [
                 { name: 'Tarefa 1', isComplete: false },
-                { name: 'Tarefa 2', isComplete: true },
+                { name: 'Tarefa 2', isComplete: false },
                 { name: 'Tarefa 3', isComplete: false },
             ],
             newTask: '',
