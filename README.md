@@ -4,7 +4,10 @@
 ```
 npm install
 ```
-
+## Project bootstrap
+```
+npm install bootstrap
+```
 ### Compiles and hot-reloads for development
 ```
 npm run serve
